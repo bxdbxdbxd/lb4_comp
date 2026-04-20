@@ -53,10 +53,10 @@
 
 ## Скрины программы
 
-![](images/hex_1)
+![](images/hex_1.png)
 
 
-![](images/hex_2)
+![](images/hex_2.png)
 
 ---
 
@@ -102,10 +102,10 @@
 
 ## Скрины программы
 
-![](images/visa_1)
+![](images/visa_1.png)
 
 
-![](images/visa_2)
+![](images/visa_2.png)
 
 
 ---
@@ -178,10 +178,10 @@ else
 
 ## Скрины программы
 
-![](images/date_1)
+![](images/date_1.png)
 
 
-![](images/date_2)
+![](images/date_2.png)
 
 
-![](images/date_3)
+![](images/date_3.png)
